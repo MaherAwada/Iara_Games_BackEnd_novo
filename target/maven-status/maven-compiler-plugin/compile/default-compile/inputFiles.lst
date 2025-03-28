@@ -1,0 +1,8 @@
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/CadastroApplication.java
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/controller/JogoController.java
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/controller/UserController.java
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/model/Jogo.java
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/model/User.java
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/repository/JogoRepository.java
+/Users/daniel/Downloads/cadastro/src/main/java/br/com/iaragames/cadastro/repository/UserRepository.java
+/Users/daniel/Downloads/cadastro/src/main/java/config/CorsConfig.java
